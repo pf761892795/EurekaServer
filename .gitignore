@@ -1,0 +1,23 @@
+/target/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.project
+.classpath
+.settings
+.pydevproject
+target
+.DS_Store
+
+logs
+*.log
+bin
+
+# idea #
+.idea
+*.iml
+/mvnw
+/mvnw.cmd
